@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-red">
 </p>
 ##Índice
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+[Título e imagen de portada](#Título-e-imagen-de-portada)
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
